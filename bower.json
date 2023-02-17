@@ -1,0 +1,20 @@
+{
+  "name": "new idea",
+  "authors": [
+    "Your Name <jhastleraero.abong.c@bulsu.edu.ph>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.8.3"
+  }
+}
