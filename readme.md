@@ -1,1 +1,3 @@
-#new ideas
+#new ideas  
+
+Playing around with VS Code
